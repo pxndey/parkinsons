@@ -1,4 +1,8 @@
 data/*
+images/*
 embeddings/*
 docs/*
 *.py
+*.keras
+*.h5
+
